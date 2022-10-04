@@ -18,6 +18,7 @@ public class Student{
 
     //Main Method
     public static void main(String args[]){
+        //obj for student
         Student sc1 = new Student();
         Student sc2 = new Student();
 
